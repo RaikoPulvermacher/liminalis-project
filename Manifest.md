@@ -5,8 +5,9 @@
 > **Hinweis zur Terminologie:**  
 > Die Abkürzungen **US** (für *Unendlichkeits-Signal*) und **Liminalis-Formel** bzw. **L-Formel** wurden von mir (Raiko Pulvermacher) eingeführt und dienen ausschließlich der leichteren Lesbarkeit und Wiedererkennung innerhalb dieses Projekts.
 > Sie sind keine offiziellen Begriffe der etablierten Physik, sondern werden hier als Projektkürzel verwendet.
-
-
+>
+> ---
+> 
 > **Vision, Wissenschaft und Einladung zum offenen Quantendenken**
 >
 > ---

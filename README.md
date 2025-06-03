@@ -25,3 +25,5 @@
 > This project is permanently subject to the [Open-Source Charter (English)](./EngishOpen-Source-Charter.md).
 >
 > See [Open-Source Charter (English)](./EngishOpen-Source-Charter.md) for all rights, obligations, and ethical principles.
+>
+> [FAQ (Deutdsch/Egnlish)](./FAQ.md)

@@ -25,13 +25,12 @@
 > ---
 >
 > **3. Die Liminalis-Formel: Das Herzstück des US**  
-> \[
-> L(t) = A_1 \sin(\omega_1 t) + A_2 \sin(\varphi \cdot \omega_1 t)
-> \]  
-> mit \(\varphi = \frac{1 + \sqrt{5}}{2} \approx 1,618\) (Goldener Schnitt)  
-> Durch irrationale Überlagerung entsteht ein nicht-periodisches Muster.  
-> Die Liminalis-Formel ist ein mathematisches Werkzeug, Superpositionen zu stabilisieren und zu modulieren.
+> L(t) = A₁ · sin(ω₁ t) + A₂ · sin(φ · ω₁ t)
+> mit φ = (1 + √5) / 2 ≈ 1,618 (Goldener Schnitt)
 >
+> Die Liminalis-Formel beschreibt eine Überlagerung zweier harmonischer Schwingungen, wobei die Frequenzkomponenten durch den Goldenen Schnitt irrational zueinander stehen. Dadurch entsteht ein nichtperiodisches, niemals exakt wiederkehrendes Muster.
+> Das Ziel ist es, mit dieser Modulation Quanten-Superpositionen zu stabilisieren oder gezielt zu steuern.
+> 
 > ---
 >
 > **4. Das neue Experiment – verschränkte Laser**  
@@ -67,5 +66,5 @@
 >
 > **Autor:** Raiko Pulvermacher  
 > **Mitwirkung:** Wandere (KI)  
-> **Ort:** Bad Kissingen, 2025  
+> **Ort:** Zeitlofs, 2025  
 > **[Projekt-Repository auf GitHub](https://github.com/RaikoPulvermacher/liminalis-project)**

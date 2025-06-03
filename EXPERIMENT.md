@@ -71,6 +71,9 @@ die Superposition und Quantenverschränkung stabilisiert, erhält oder in charak
 Jede*r kann es weiterentwickeln, simulieren oder praktisch testen.**  
 Bitte dokumentiert alle Versuche und Ergebnisse offen im Repository!
 
+
+„Diese Datei wird laufend weiterentwickelt, sobald neue Ideen, Korrekturen oder Erkenntnisse entstehen.
+Vorschläge und Diskussionen sind ausdrücklich erwünscht!“
 ---
 
 (C) Raiko Pulvermacher, 2025. Siehe [GERMANCHARTA.md](./GERMANCHARTA.md).

@@ -22,6 +22,6 @@
 - [Open-Source Charter (English)](./EngishOpen-Source-Charter.md)
 - [Manifest (English)](./EnglishManifest.md)
 
-> This project is permanently subject to the [Open-Source Charter (English)](./EnglishOpen-Source-Charter.md).
+> This project is permanently subject to the [Open-Source Charter (English)](./EngishOpen-Source-Charter.md).
 >
-> See [Open-Source Charter (English)](./EnglishOpen-Source-Charter.md) for all rights, obligations, and ethical principles.
+> See [Open-Source Charter (English)](./EngishOpen-Source-Charter.md) for all rights, obligations, and ethical principles.

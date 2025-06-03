@@ -19,7 +19,7 @@
 
 - [Experiment: Liminalis Formula (English)](./EnglishExperiment.md)
 - [Liminalis Formula (English)](./EglischFormula.md)
-- [Open-Source Charter (English)](./EnglishOpen-Source-Charter.md)
+- [Open-Source Charter (English)](./EngishOpen-Source-Charter.md)
 - [Manifest (English)](./EnglishManifest.md)
 
 > This project is permanently subject to the [Open-Source Charter (English)](./EnglishOpen-Source-Charter.md).

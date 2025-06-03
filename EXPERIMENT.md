@@ -9,17 +9,19 @@ die Superposition und Quantenverschränkung stabilisiert, erhält oder in charak
 
 ## Grundidee
 
-- Zwei verschränkte Quantenteilchen (z. B. Photonenpaare) werden erzeugt.
-- Auf eines der beiden Teilchen wird ein äußeres, klassisches Feld angewendet,  
-  das gemäß der **Liminalis-Formel** moduliert wird:
+- Zwei verschränkte Photonen werden erzeugt (z. B. mit Spontaner Parametrischer Abwärtskonversion, SPDC).
+- Diese Photonen werden jeweils von zwei getrennten, aber synchronisierten Lasersystemen bestrahlt,  
+  **wobei beide Laser ihrerseits Photonen aussenden, die miteinander verschränkt sind**  
+  und deren Frequenzkomponenten gemäß der **Liminalis-Formel** moduliert werden:
   
   \[
   L(t) = A_1 \sin(\omega_1 t) + A_2 \sin(\varphi \cdot \omega_1 t)
   \]
   mit \(\varphi = \frac{1+\sqrt{5}}{2}\) (Goldener Schnitt)
 
-- Es wird beobachtet, ob und wie sich die Quantenverschränkung zwischen beiden Teilchen verändert,  
-  insbesondere ob neue, stabile Muster in der Superposition nachweisbar sind.
+- Ziel: Zu prüfen, ob die Verschränkung der ursprünglichen Photonen durch die Einwirkung  
+  von verschränkten Laserstrahlen mit Liminalis-Modulation **stabilisiert, beeinflusst oder gezielt gesteuert werden kann**.
+
 
 ---
 

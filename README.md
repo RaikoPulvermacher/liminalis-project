@@ -18,7 +18,7 @@
 ## Overview
 
 - [Experiment: Liminalis Formula (English)](./EnglishExperiment.md)
-- [Liminalis Formula (English)](./EnglishFormula.md)
+- [Liminalis Formula (English)](./EglischFormula.md)
 - [Open-Source Charter (English)](./EnglishOpen-Source-Charter.md)
 - [Manifest (English)](./EnglishManifest.md)
 

@@ -53,4 +53,4 @@ This aims to enable a new path for stable, lossless information transmission bas
 ---
 
 (C) Raiko Pulvermacher, Zeitlofs, 2025.  
-Open Source under 
+Open Source under [Open-Source-Charter (English)](EngishOpen-Source-Charter.md)

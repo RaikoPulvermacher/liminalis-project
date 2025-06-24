@@ -11,6 +11,16 @@
 >  
 > Siehe [Open-Source-Charta (Deutsch)](./GERMANCHARTA.md) – für alle Rechte, Pflichten und ethischen Prinzipien.
 
+
+---
+
+### 🛡 Lizenz
+
+Dieses Projekt steht unter der [Open-Source-Karta für das Unendlichkeits-Signal (US)](./GERMANCHARTA.md) von **Raiko Pulvermacher**.  
+👉 Bitte beachte: kommerzielle Nutzung nur mit Erlaubnis!  
+📄 Ergänzende Lizenz: [LICENSE.txt](./LICENSE.txt)
+
+
 ---
 
 # Liminalis Project

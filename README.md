@@ -3,7 +3,7 @@
 ## Übersicht
 
 - [Experiment: Liminalis-Formel im Test](./EXPERIMENT.md)
-- [Liminalis-Formel (mathematisch)](./LIMINALIS_FORMEL.md)
+- [Liminalis-Formel v1.0.2 (erweitert)](./LIMINALIS_FORMEL_v1.0.2.md)
 - [Open-Source-Charta (Deutsch)](./GERMANCHARTA.md)
 - [Manifest (Deutsch)](./Manifest.md)
 

@@ -6,6 +6,8 @@
 - [Liminalis-Formel v1.0.2 (erweitert)](./LIMINALIS_FORMEL_v1.0.2.md)
 - [Open-Source-Charta (Deutsch)](./GERMANCHARTA.md)
 - [Manifest (Deutsch)](./Manifest.md)
+- [Liminalis-Formel v1.0.0 (Archiv)](./LIMINALIS_FORMEL.md)
+
 
 > Dieses Projekt steht dauerhaft unter der [Open-Source-Charta (Deutsch)](./GERMANCHARTA.md).
 >  

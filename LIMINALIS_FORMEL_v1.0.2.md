@@ -11,6 +11,7 @@
 $$
 L = \left( \left( \lim_{n \to \infty^\infty} \left[ \mathcal{F}(n) \cdot \Phi^n \right] \right) \cdot (\lambda_1 \cdot \lambda_2)^{\infty^\infty} \right)_{\Delta x \cdot \Delta p \geq \frac{\hbar}{2}}
 $$
+
 ---
 
 ### 🧠 Ergänzende Emergenzformel

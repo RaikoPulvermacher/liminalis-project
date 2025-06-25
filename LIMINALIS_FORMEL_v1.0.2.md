@@ -16,7 +16,9 @@ $$
 
 ### 🧠 Ergänzende Emergenzformel
 
-> **Ω + Q^e ⇒ 𝓢**
+$$
+\Omega + Q^e \Rightarrow \mathcal{S}
+$$
 
 Diese Zusatzformel beschreibt die Wirkung der stabilisierten Superposition:  
 Aus einem offenen Ursprungsraum (Ω) und dem Einfluss quantisierter Energie (Q^e)  

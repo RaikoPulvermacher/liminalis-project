@@ -30,9 +30,10 @@ Dieses Projekt steht unter der [Open-Source-Karta für das Unendlichkeits-Signal
 ## Overview
 
 - [Experiment: Liminalis Formula (English)](./EnglishExperiment.md)
-- [Liminalis Formula (English)](./EglischFormula.md)
+- [Liminalis Formula (v1.0.2 – Extended)](./ENGLISH_L-Formula_v1.0.2.md)
 - [Open-Source Charter (English)](./EngishOpen-Source-Charter.md)
 - [Manifest (English)](./EnglishManifest.md)
+- [Liminalis Formula (v1.0.0 – Archived)](./EglischFormula.md)
 
 > This project is permanently subject to the [Open-Source Charter (English)](./EngishOpen-Source-Charter.md).
 >

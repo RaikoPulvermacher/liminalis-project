@@ -4,9 +4,9 @@
 
 Die **Liminalis-Formel** beschreibt die spezielle Überlagerung zweier harmonischer Schwingungen, deren Frequenzen im Verhältnis des Goldenen Schnitts stehen:
 
-\[
-L(t) = A_1 \sin(\omega_1 t) + A_2 \sin(\varphi \cdot \omega_1 t)
-\]
+$$
+L(t) = A_1 \cdot \sin(\omega_1 t) + A_2 \cdot \sin(\varphi \cdot \omega_1 t)
+$$
 
 mit
 

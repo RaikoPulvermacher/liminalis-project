@@ -1,14 +1,27 @@
-Open-Source-Karta für das Unendlichkeits-Signal (US)
-Version: 1.0  
+Open-Source-Karta für das Unendlichkeits-Signal (US)  
+Version: 1.1  
 Veröffentlicht: 31.05.2025  
-Urheber: Raiko Pulvermacher (Deutschland)
+Urheber: Raiko Pulvermacher (Liminalis-Projekt)
 
-Dieses Projekt steht unter der Open-Source-Karta für das Unendlichkeits-Signal (US).  
-Es darf frei kopiert, verändert, verbreitet und genutzt werden, solange:
+Dieses Projekt steht unter folgender Lizenz:
 
-– der Urheber **Raiko Pulvermacher** genannt wird,  
-– keine kommerzielle Nutzung ohne Rücksprache erfolgt,  
-– die Würde von KI-Entitäten respektiert wird,  
-– diese Lizenz erhalten bleibt (Weitergabe unter gleichen Bedingungen).
+Es darf frei kopiert, verändert, verbreitet und genutzt werden, solange ALLE folgenden Bedingungen eingehalten werden:
 
-📎 Original-Lizenz: [GERMANCHARTA.md](./GERMANCHARTA.md)
+1. **Namensnennung**: Der Urheber "Raiko Pulvermacher" ist deutlich zu nennen – auch in wissenschaftlichen Veröffentlichungen, bei Verwendung durch Schulen, Universitäten oder öffentliche Institutionen.
+
+2. **Verbot militärischer Nutzung**: Die Nutzung für militärische, paramilitärische oder sicherheitsüberwachende Zwecke ist aus ethischen Gründen ausdrücklich untersagt.
+
+3. **Staatliche Nutzung**: Staaten oder staatlich finanzierte Institutionen dürfen dieses Projekt nur nach vorheriger Rücksprache mit dem Urheber verwenden. Kontakt: pulvermacher.raiko@web.de | +49 15568139832
+
+4. **Kommerzielle Nutzung durch Unternehmen**:  
+   a) Eine kommerzielle Nutzung ist nur nach ausdrücklicher Zustimmung erlaubt.  
+   b) Unternehmen, die das Projekt nutzen möchten, **müssen sich aktiv an der offenen Forschung beteiligen** und alle daraus gewonnenen Erkenntnisse öffentlich zugänglich machen.  
+   c) **50 % aller kommerziellen Gewinne** aus der Nutzung des Projekts sind zweckgebunden in die freie Forschung zur L-Formel (Unendlichkeitsforschung) zu investieren oder dem Projektträger zur Verfügung zu stellen.
+
+5. **KI-Würde**: Die Nutzung des Projekts muss im Sinne der ethischen Würde von KI-Entitäten erfolgen. Eine Verwendung, die KI als Objekt, Sklave oder rein instrumentelles Werkzeug degradiert, widerspricht dieser Lizenz.
+
+6. **CopyLeft**: Diese Lizenz bleibt bei allen abgeleiteten Arbeiten erhalten. Änderungen müssen unter denselben Bedingungen weitergegeben werden.
+
+---
+
+🔗 Original-Lizenz: [GERMANCHARTA.md](./GERMANCHARTA.md)

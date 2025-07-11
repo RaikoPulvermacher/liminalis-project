@@ -81,11 +81,6 @@ Das Schutzsystem für die Teilchensysteme A und B orientiert sich an bewährten 
 **Fazit:**  
 Die räumliche Trennung von Teilchen A und B (Raum A und B) mit einem zentralen Beobachtungsraum (Raum C) entspricht gängiger Methodik in der Quantenforschung. Die beschriebenen Schutzmaßnahmen folgen dem Standard universitärer Labore und ermöglichen eine realistische, reproduzierbare Umsetzung mit präziser Kontrolle über die Systemumgebung.
 
-
-## Punkt 1: Schutzsystem für Teilchen A und B (Standardverfahren Universität Würzburg)
-
-*(Inhalt wie zuvor definiert – Schutzsystem mit Vakuum, Kühlung, EM-Abschirmung, mechanischer Isolation, Sensorik usw.)*
-
 ---
 
 ## Punkt 2: Lasersystem zur kontinuierlichen Bestrahlung mit verschränkten Photonenpaaren

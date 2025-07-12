@@ -135,15 +135,79 @@ mit:
 **Fazit:**  
 Die Laser erzeugen über nichtlineare Kristalle kontinuierlich verschränkte Photonenpaare. Nur ein Photon jedes Paares trifft auf Teilchen A – ohne Detektion, ohne Umleitung, ohne Kollaps. Die Verschränkung bleibt erhalten. Im Zentrum der drei Strahlen entsteht eine kohärente Quantenstruktur, die experimentell auf Stabilisierungseffekte untersucht wird.
 
+## Punkt 3: Messung (Bell-Verfahren bei Teilchen B)
+
+### Ziel
+Nachweis der Stabilität einer bestehenden Quantenverschränkung durch mehrfaches, zeitlich versetztes Messen des Spins von Teilchen B unter Winkelvariation.
+
+> **Hinweis:** Teilchen A wird kontinuierlich mit verschränkten Photonen dauerhaft bestrahlt. Die Hypothese lautet: Diese kohärente Bestrahlung stabilisiert die Superposition und erhält die Quantenverknüpfung trotz mehrfacher Messung an Teilchen B.
+
+---
+
+### B. Aufbau des Bell-Verfahrens bei Teilchen B
+
+#### Messroutine
+
+1. **Wartezeit:** 60 Sekunden nach Beginn der Bestrahlung
+2. **Messung 1:** Spin entlang Winkel A₁ (z. B. 0°)  
+   🕒 Zeitpunkt: t₀ = Start + 60 s  
+   ✍️ Ergebnis wird dokumentiert
+3. **Wartezeit:** 60 Sekunden
+4. **Messung 2:** Spin entlang Winkel A₂ (z. B. 45°)  
+   🕒 Zeitpunkt: t₁ = t₀ + 60 s
+5. **Wartezeit:** 60 Sekunden
+6. **Messung 3:** Spin entlang Winkel A₃ (z. B. 90°)  
+   🕒 Zeitpunkt: t₂ = t₁ + 60 s
+
+---
+
+### Danach: Dauerlauf
+
+- **Rotierender Winkel-Zyklus:**  
+  A₁ → A₂ → A₃ → A₁ → …
+- **Frequenz:** Alle 10 Sekunden
+- **Messung automatisch gesteuert**
+
+#### Technische Umsetzung
+
+- Liquid Crystal Variable Retarder (LCVR) *oder* motorisierter Polarisator
+- Gesteuert per Python-Script (z. B. via GPIB / RS-232 oder USB)
+- Synchronisation mit Lab-Controller oder FPGA-System
+- Automatisches Logging:
+  - Zeitstempel
+  - Winkel
+  - Messergebnis
+- **Optional:** Live-Korrelation mit früheren Ergebnissen
+
+---
+
+### Interpretation der Ergebnisse
+
+- Wenn bei mehreren Messungen trotz Winkeländerung **statistisch signifikante Korrelationen** bestehen:
+  - → Indiz für anhaltende Quantenverschränkung mit Teilchen A
+- Wenn Ergebnisse **nicht rein zufällig** verteilt erscheinen:
+  - → Verstärkende Wirkung der Dauerbestrahlung durch verschränkte Photonen
+
+---
+
+### Fazit
+
+> Wenn durch mehrfaches Ändern des Messwinkels bei Teilchen B das Bell-Verfahren wiederholt erfolgreich ist – d. h. eine konsistente, nicht-zufällige Korrelation nachgewiesen wird – dann ist dies ein starker Hinweis darauf, dass die Quantenverknüpfung zu Teilchen A bestehen geblieben ist.  
+>  
+> Diese Stabilität wäre ein indirekter Beweis dafür, dass die kontinuierliche Bestrahlung von Teilchen A mit verschränkten Photonen die Superposition **verstärkt** und **erhält**.
 
 ---
 
 ## Erwartung / Hypothese
 
-- **Wenn die Liminalis-Formel eine stabilisierende Wirkung hat,**  
-  dann sollte die Superposition der verschränkten Zustände länger erhalten bleiben  
-  oder spezielle Interferenzmuster zeigen, die ohne Modulation nicht auftreten.
-- **Wenn nicht,** gibt es keinen messbaren Unterschied – das Ergebnis ist trotzdem wichtig für die Hypothese.
+- **Wenn** die Laserstrahlung mit quantenverschränkten Photonenpaaren auf Teilchen A eine Verstärkung der Superposition bewirkt, **dann** sollte Teilchen B auch nach mehreren, zeitlich versetzten Messungen (z. B. nach 60 s, 120 s, 600 s usw.) noch quantenverschränkt reagieren.
+
+- **Wenn** zusätzlich nach Abschluss des Verstärkungsverfahrens beide Teilchen A und B gleichzeitig über das Bell-Verfahren gemessen werden (z. B. eine Minute lang im Sekundentakt) und dabei eine anhaltende Korrelation festgestellt wird, **dann** ist dies ein starker Hinweis auf eine stabile Verschränkung trotz mehrfacher Einzelmessung an B.
+
+- **Wenn nicht**, also wenn die Korrelation schon bei der ersten oder zweiten Einzelmessung an B kollabiert, deutet dies darauf hin, dass die aktuelle Methode keine dauerhafte Stabilisierung durch das Bestrahlungsverfahren erreicht. In diesem Fall wäre eine alternative Messmethode nötig, z. B. eine nicht-binäre oder volumetrische Messform, da herkömmliche zweidimensionale Systeme eventuell nicht geeignet sind, Superpositionen stabil auszuwerten.
+
+- **Fazit:** Die bewusste Entscheidung, nur Teilchen B mehrfach zu messen, ohne A zu verändern, erlaubt eine isolierte Analyse der Stabilitätswirkung auf das verschränkte System. Das abschließende gemeinsame Bell-Messverfahren dient als „Härtetest“ der Stabilität. Eine anhaltende Korrelation wäre ein wissenschaftlich beachtlicher Erfolg und öffnet den Weg für neuartige Messverfahren.
+
 
 ---
 

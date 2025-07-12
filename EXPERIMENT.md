@@ -26,7 +26,7 @@ die Superposition und Quantenverschränkung stabilisiert, erhält oder in charak
 ---
 
 # Experimenteller Versuchsaufbau  
-## Punkt 1: Schutzsystem für Teilchen A und B (Standardverfahren Universität Würzburg)
+## Punkt 1: Schutzsystem für Teilchen A und B (Standardverfahren Universität )
 
 Das Schutzsystem für die Teilchensysteme A und B orientiert sich an bewährten und etablierten Verfahren aus der experimentellen Quantenoptik, wie sie beispielsweise in den Labors der Universität Würzburg verwendet werden. Ziel ist es, äußere Einflüsse wie thermisches Rauschen, elektromagnetische Felder, mechanische Vibrationen und Streustrahlung zu minimieren, um eine möglichst lang anhaltende Quantenkohärenz zu ermöglichen.
 

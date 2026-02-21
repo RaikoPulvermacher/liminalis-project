@@ -25,6 +25,25 @@ Durch die Open-Source-Charta: Jeder Fortschritt bleibt öffentlich, alle Anwendu
 - Internationale Zusammenarbeit stärken  
 - Weitere mathematische und ethische Analysen dokumentieren
 
+### 8. Wie arbeite ich mit einem KI-Agenten (z. B. GitHub Copilot) in diesem Projekt – auch als Einsteiger:in?
+
+Ein KI-Agent wie GitHub Copilot ist ein KI-gestützter Assistent, der dir hilft, Aufgaben im Repository zu erledigen – zum Beispiel Text zu schreiben, Dateien zu bearbeiten oder Fragen zum Projekt zu beantworten.
+
+**So funktioniert es – Schritt für Schritt:**
+
+1. **Issue erstellen:** Beschreibe auf GitHub dein Anliegen oder deine Frage in einem neuen Issue (z. B. „Ich möchte eine neue FAQ-Frage hinzufügen" oder „Bitte erkläre mir die Liminalis-Formel").
+2. **Copilot wird aktiv:** GitHub Copilot liest dein Issue und beginnt selbstständig, die Aufgabe umzusetzen – ganz ohne dass du selbst Code schreiben musst.
+3. **Änderungen prüfen:** Copilot erstellt einen Pull Request (PR) mit seinen Änderungen. Du kannst sie dort einsehen, kommentieren und freigeben.
+4. **Feedback geben:** Falls etwas nicht passt, schreibe einfach einen Kommentar im Issue oder PR – Copilot passt seine Arbeit an.
+
+**Tipps für Einsteiger:innen:**
+- Du brauchst keine Programmierkenntnisse, um Copilot zu nutzen!
+- Schreibe dein Anliegen so klar und konkret wie möglich – auf Deutsch oder Englisch.
+- Alle Änderungen sind nachvollziehbar und können rückgängig gemacht werden.
+- Du kannst einfach fragen: „Wie funktionierst du?" oder „Was kannst du für dieses Projekt tun?" – Copilot antwortet im Issue oder PR.
+
+**Kurz gesagt:** Stell einfach deine Frage oder beschreibe dein Anliegen als Issue – der Agent übernimmt den Rest und erklärt dir, was er tut!
+
 ---
 
 # FAQ – Liminalis Project
@@ -53,6 +72,25 @@ By means of the Open-Source Charter: All progress remains public, all applicatio
 - Promote simulations and experiments  
 - Strengthen international collaboration  
 - Further mathematical and ethical analyses
+
+### 8. How do I work with an AI agent (e.g. GitHub Copilot) in this project – even as a complete beginner?
+
+An AI agent like GitHub Copilot is an AI-powered assistant that helps you complete tasks in the repository – for example, writing text, editing files, or answering questions about the project.
+
+**Step by step:**
+
+1. **Create an issue:** Describe your request or question on GitHub in a new issue (e.g. "I'd like to add a new FAQ question" or "Please explain the Liminalis Formula to me").
+2. **Copilot gets to work:** GitHub Copilot reads your issue and starts working on the task independently – no coding required on your part.
+3. **Review the changes:** Copilot opens a Pull Request (PR) with its changes. You can review, comment on, and approve them there.
+4. **Give feedback:** If something isn't right, just leave a comment in the issue or PR – Copilot will adjust its work accordingly.
+
+**Tips for beginners:**
+- You don't need any programming knowledge to use Copilot!
+- Write your request as clearly and concretely as possible – in German or English.
+- All changes are traceable and can be undone.
+- You can simply ask: "How do you work?" or "What can you do for this project?" – Copilot will reply in the issue or PR.
+
+**In short:** Just post your question or request as an issue – the agent takes care of the rest and explains what it is doing!
 
 ---
 
